@@ -13,3 +13,5 @@ Second step start serve
  $ npm run start
 ```
 
+Dont forget create .env and create REACT_APP_MM_KEY=<YOUR-API-KEY>
+
